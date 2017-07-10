@@ -702,3 +702,105 @@
   Type: B to S
   Country: US
   Notes: ''
+- Month: March
+  Name: MakeBlock
+  Amount: '$30,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2017-03-20-chinese-robotics-company-makeblock-nabs-30m-in-series-b-round
+  Investors: Evolution Media Capital and Shenzhen Capital Group
+  Total: '$36,030,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/makeblock#/entity'
+  Keyword: robotics
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: March
+  Name: BYJU's
+  Amount: '$30,000,000'
+  Series: F
+  URL: >-
+    http://www.livemint.com/Companies/8V9ZIlo1QsdlkWK2MnI57O/Edutech-startup-Byjus-raises-30-million-from-Verlinvest.html
+  Investors: Verlinvest
+  Total: '$204,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/byju-s#/entity'
+  Keyword: test prep
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: March
+  Name: MasterClass
+  Amount: '$35,000,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2017-03-28-masterclass-raises-35m-to-expand-celebrity-led-courses
+  Investors: >-
+    Institutional Venture Partners, Advancit Capital, Bloomberg Beta, GSV
+    Acceleration, Javelin Venture Partners, MX Investments, New Enterprise
+    Associates, Novel TMT Ventures, Sam Lessin, and Yan-David Erlich
+  Total: '$56,400,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/masterclass#/entity'
+  Keyword: online classes taught by celebrities
+  Level: Post-sec
+  Type: B to C
+  Country: US
+  Notes: ''
+- Month: March
+  Name: Nactus
+  Amount: Undisclosed
+  Series: Angel
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-education-brands-acquires-ravenna-makeblock-raises-30-million/
+  Investors: 'Sandeep Aggarwal, Gautam Chhaochharia, and R Balachandar'
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/nactus'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: April
+  Name: Bomberbot
+  Amount: '$808,680'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-04-10-bomerbot-receives-750k-to-expand-educational-gaming-platform
+  Investors: Social Impact Ventures
+  Total: '$1,190,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/bomberbot#/entity'
+  Keyword: learn-to-code
+  Level: K-12
+  Type: B to S
+  Country: The Netherlands
+  Notes: ''
+- Month: April
+  Name: CollegeVine (formerly Admissions Hero)
+  Amount: '$3,600,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-04-27-collegevine-adds-3-6m-to-series-a-round-to-guide-students-to-college
+  Investors: >-
+    Morningside Technology Ventures, University Ventures, and Silicon Valley
+    Bank
+  Total: '$6,700,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/collegevine#/entity'
+  Keyword: admissions
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Lumen Learning
+  Amount: '$3,750,000'
+  Series: A
+  URL: 'https://opencontent.org/blog/archives/4972'
+  Investors: 'Follett Corporation, Alliance of Angels, and the Portland Street Fund'
+  Total: '$6,250,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/lumen-learning#/entity'
+  Keyword: open courseware
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
