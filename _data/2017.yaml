@@ -923,7 +923,7 @@
   Series: Seed
   URL: >-
     https://www.edsurge.com/news/2017-05-18-french-edtech-startup-raises-1-5m-to-build-wooden-tablet-add-ons-and-toys
-  Investors: 'Mirabelle investment fund, Marguerite Fournié, and Michelin Development'
+  Investors: 'Mirabelle investment fund, Marguerite Fournie, and Michelin Development'
   Total: '$1,500,000'
   Crunchbase: 'https://www.crunchbase.com/organization/marbotic'
   Keyword: augmented toys
@@ -1004,5 +1004,381 @@
   Keyword: book subscription
   Level: K-12
   Type: B to C
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Legends of Learning
+  Amount: '$9,000,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-everfi-raises-190-million-legends-learning-marco-polo-raise-funds/
+  Investors: Baltimore Angels
+  Total: '$9,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/legends-of-learning'
+  Keyword: educational games
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: CreativeLive
+  Amount: '$25,000,000'
+  Series: C
+  URL: >-
+    https://www.geekwire.com/2017/creativelive-lands-25m-to-expand-online-learning-platform-further-into-the-enterprise/
+  Investors: >-
+    GSV Acceleration, Creative Arts Agency, Greylock Partners, Jared Leto, REV,
+    Richard Branson, and Social Capital
+  Total: '$76,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/creativelive'
+  Keyword: online training
+  Level: Corporate
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: AltSchool
+  Amount: '$40,000,000'
+  Series: C
+  URL: >-
+    https://www.axios.com/education-startup-altschool-raised-40-million-2389567090.html
+  Investors: Undisclosed
+  Total: '$173,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/altschool#/entity'
+  Keyword: private school
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Grammarly
+  Amount: '$110,000,000'
+  Series: Venture
+  URL: >-
+    https://techcrunch.com/2017/05/08/grammarly-raises-110-million-for-a-better-spell-check/
+  Investors: >-
+    Breyer Capital Venture, General Catalyst Venture, Institutional Venture
+    Partners, SignalFire Venture, and Spark Capital
+  Total: '$110,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/grammarly#/entity'
+  Keyword: grammar and spelling assistance
+  Level: All
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Yuanfandao
+  Amount: '$120,000,000'
+  Series: Private Equity
+  URL: >-
+    https://www.edsurge.com/news/2017-05-31-chinese-online-k-12-tutoring-startup-raises-120m-from-warburg-pincus
+  Investors: Warburg Pincus and Tencent
+  Total: '$244,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/yuanfudao#/entity'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: May
+  Name: eDynamic Learning
+  Amount: Undisclosed
+  Series: Unknown
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-pearson-to-sell-parts-of-tutorvista-to-byjus-gauge-capital-invests-in-edynamic-learning/
+  Investors: Gauge Capital
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/edynamic-learning'
+  Keyword: online education
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Resume Clip
+  Amount: '$50,000'
+  Series: Seed
+  URL: 'https://www.crunchbase.com/organization/resume-clip-2#/entity'
+  Investors: Swami Shrikanthanand
+  Total: '$50,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/resume-clip-2#/entity'
+  Keyword: video-based recruitment
+  Level: Post-sec
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: June
+  Name: Zzish
+  Amount: '$232,070'
+  Series: Seed
+  URL: >-
+    http://techcitynews.com/2017/05/31/exclusive-london-edtech-startup-zzish-secures-1-5m/
+  Investors: LEAF Investments
+  Total: '$4,620,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/zzish#/entity'
+  Keyword: monetization for apps
+  Level: Corporate
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: June
+  Name: BookNook
+  Amount: '$1,200,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-06-06-booknook-raises-1-2m-seed-round-to-facilitate-small-group-literacy-instruction
+  Investors: 'Reach Capital, the Urban Innovation Fund, Impact Engine, and Better Ventures'
+  Total: '$1,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/booknook#/entity'
+  Keyword: literacy
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Outschool
+  Amount: '$1,400,000'
+  Series: Seed
+  URL: 'https://techcrunch.com/2017/06/26/how-to-raise-from-sesame-street/'
+  Investors: >-
+    Collaborative Fund, Sesame Workshop, Caterina Fake, FundersClub, Learn
+    Capital, Spectrum 28, SV Angel, and Y Combinator
+  Total: '$1,520,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/outschool#/entity'
+  Keyword: online education marketplace
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Wonderschool
+  Amount: '$2,000,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2017/06/19/wonderschool-gets-2m-to-help-solve-americas-childcare-quandary/
+  Investors: >-
+    Cross Culture Ventures, First Round, Edelweiss, FundersClub, Lerer Hippeau
+    Ventures, and SoftTech VC
+  Total: '$2,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/wonderschool#/entity'
+  Keyword: preschool-in-the-home
+  Level: Pre-K
+  Type: B to B
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Mystery Science
+  Amount: '$2,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-06-28-mystery-science-snags-2m-in-funding-to-create-problem-solvers-and-volcano-predictors
+  Investors: 'Y Combinator, Reach Capital, 500 Startups, and Learn Capital'
+  Total: '$2,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/mystery-science#/entity'
+  Keyword: science curriculum
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Verso Learning
+  Amount: '$2,000,000'
+  Series: A
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-hero-k12-receives-150-million-lingokids-raises-4-million/
+  Investors: Ken Lowe
+  Total: '$2,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/verso-learning'
+  Keyword: curriculum
+  Level: K-12
+  Type: B to S
+  Country: Australia
+  Notes: ''
+- Month: June
+  Name: Mrs. Wordsmith
+  Amount: '$2,540,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-06-13-uk-startup-mrs-wordsmith-raises-2-million-to-teach-vocabulary-through-visuals
+  Investors: 'Kindred Capital, SaatchiNvest, Ropart Asset Management, and Reach Capital'
+  Total: '$2,540,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/mrs-wordsmith#/entity'
+  Keyword: digital worksheets
+  Level: K-12
+  Type: B to S
+  Country: UK
+  Notes: ''
+- Month: June
+  Name: MyTutor
+  Amount: '$3,820,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2017/06/21/mytutor-raises-3m-series-a-led-by-mobeus-to-attack-uk-tutor-market/
+  Investors: 'Mobeus Equity Partners, Clive Cowdery, and Thomas Hoegh'
+  Total: '$3,820,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/mytutorweb#/entity'
+  Keyword: tutoring
+  Level: Post-sec
+  Type: B to C
+  Country: UK
+  Notes: ''
+- Month: June
+  Name: Lingokids
+  Amount: '$4,000,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-06-20-lingokids-lands-4-million-and-a-partnership-with-oxford-university-press
+  Investors: >-
+    HV Holtzbrinck Ventures, Bessemer Venture Partners, Big Sur Ventures, JME
+    Venture Capital, and Sabadell Venture Capital
+  Total: '$5,150,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/monkimun#/entity'
+  Keyword: vocabulary games
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Snapask
+  Amount: '$5,000,000'
+  Series: Seed
+  URL: ''
+  Investors: 'Kejora, Cai Wensheng , and Welight Capital'
+  Total: '$6,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/appedu#/entity'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: Hong Kong
+  Notes: ''
+- Month: June
+  Name: Apptegy
+  Amount: '$5,700,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-06-04-little-rock-startup-apptegy-raises-5-7m-to-expand-k-12-communications-platform
+  Investors: Five Elms Capital
+  Total: '$6,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/apptegy#/entity'
+  Keyword: school messaging
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Ruangguru
+  Amount: '$7,000,000'
+  Series: B
+  URL: >-
+    https://www.dealstreetasia.com/stories/indonesian-edtech-start-up-ruangguru-closes-series-b-exc-75194/
+  Investors: GSMA
+  Total: Unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/ruangguru#/entity'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: Indonesia
+  Notes: ''
+- Month: June
+  Name: Top Hat
+  Amount: '$7,500,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2017-06-14-with-7-5m-funding-boost-top-hat-launches-marketplace-to-challenge-textbook-publishers
+  Investors: Learners Fund
+  Total: '$49,400,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/tophat#/entity'
+  Keyword: classroom response tools
+  Level: Post-sec
+  Type: B to S
+  Country: Canada
+  Notes: ''
+- Month: June
+  Name: Abl
+  Amount: '$7,500,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-06-29-abl-raises-7-5m-series-a-to-help-schools-solve-befuddling-scheduling-problems
+  Investors: >-
+    Rethink Education, Sinovation Ventures, Owl Ventures, Reach Capital,and
+    First Round Capital
+  Total: '$12,000,000'
+  Crunchbase: >-
+    https://www.edsurge.com/news/2017-06-29-abl-raises-7-5m-series-a-to-help-schools-solve-befuddling-scheduling-problems
+  Keyword: school scheduling
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Trilogy Education
+  Amount: '$30,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-06-05-trilogy-education-raises-30m-to-give-universities-a-bootcamp-in-skills-based-training
+  Investors: 'City Light Capital, Highland Capital Partners, and Rethink Education'
+  Total: '$30,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/trilogy-education-services#/entity'
+  Keyword: coding bootcamp
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Coursera
+  Amount: '$64,000,000'
+  Series: D
+  URL: >-
+    https://techcrunch.com/2017/06/07/online-learning-startup-coursera-raises-64m-at-an-800m-valuation/
+  Investors: >-
+    GSV Asset Management, Kleiner Perkins Caufield & Byers, Lampert Foundation,
+    Learn Capital, and New Enterprise Associates
+  Total: '$210,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/coursera#/entity'
+  Keyword: online education
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Hero K12
+  Amount: '$150,000,000'
+  Series: Private Equity
+  URL: >-
+    https://www.edsurge.com/news/2017-06-19-with-150-million-to-spend-hero-k12-goes-shopping-for-education-technology-companies
+  Investors: BV Investment Partners
+  Total: '$150,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/hero-k12#/entity'
+  Keyword: behavior management
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Civitas Learning
+  Amount: Undisclosed
+  Series: Unknown
+  URL: >-
+    https://www.civitaslearning.com/press/national-impact-investors-join-civitas-learning/
+  Investors: Lumina Foundation and Valhalla Charitable Foundation
+  Total: '$63,950,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/civitas-learning#/entity'
+  Keyword: predictive analytics
+  Level: Post-sec
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: June
+  Name: Viridis Learning
+  Amount: Undisclosed
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-06-02-salesforce-ventures-invests-in-viridis-to-connect-students-community-colleges-and-jobs
+  Investors: Salesforce Ventures and Thayer Ventures
+  Total: '$4,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/viridis-learning#/entity'
+  Keyword: job placement
+  Level: Corporate
+  Type: B to B
   Country: USA
   Notes: ''
