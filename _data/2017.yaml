@@ -610,3 +610,95 @@
   Type: B to S
   Country: US
   Notes: ''
+- Month: March
+  Name: CampusLogic
+  Amount: '$10,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2017-03-02-campuslogic-raises-10m-to-streamline-digital-student-financial-aid-services
+  Investors: 4.0 Partners
+  Total: '$17,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/campuslogic'
+  Keyword: financial aid management
+  Level: Post-sec
+  Type: B to S
+  Country: US
+  Notes: ''
+- Month: March
+  Name: Raise.me
+  Amount: '$12,000,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2017/03/29/raise-me-grabs-12-million-to-fix-how-colleges-provide-financial-aid/
+  Investors: 'Redpoint, GSV Acceleration, Owl Ventures, and SJF Ventures'
+  Total: '$16,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/raise-labs-inc#/entity'
+  Keyword: financial aid management
+  Level: Post-sec
+  Type: B to S
+  Country: US
+  Notes: ''
+- Month: March
+  Name: Voxy
+  Amount: '$12,000,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2017-03-30-english-instruction-company-voxy-lands-12m-to-expand-globally
+  Investors: >-
+    SJF Ventures, Contour Venture Partners, GSV Acceleration, Inherent Group,
+    Rethink Education, and Weld North
+  Total: '$30,800,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/voxy#/entity'
+  Keyword: language learning
+  Level: All
+  Type: B to C
+  Country: US
+  Notes: ''
+- Month: March
+  Name: WayUp
+  Amount: '$18,500,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2017-03-23-wayup-secures-18-5m-to-develop-jobs-site-for-college-students
+  Investors: >-
+    Trinity Ventures, Axel Springer, BoxGroup, CAA Ventures, Female Founders
+    Fund, General Catalyst, Index Ventures, Lerer Hippeau Ventures,
+    OurCrowd-GCai, and SV Angel
+  Total: '$27,470,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/wayup#/entity'
+  Keyword: job placement
+  Level: Post-sec
+  Type: B to C
+  Country: US
+  Notes: ''
+- Month: March
+  Name: Nearpod
+  Amount: '$21,000,000'
+  Series: B
+  URL: >-
+    https://www.edsurge.com/news/2017-03-01-nearpod-notches-21m-in-series-b-round-to-expand-digital-virtual-learning-experiences
+  Investors: >-
+    Reach Capital, Krillion Ventures, AGP Tech, GSV Acceleration Fund, Storm
+    Ventures, the Stanford-StartX Fund, the Knight Enterprise Fund, Arsenal
+    Ventures, Marc Benioff, Scott Cook, and Signe Ostby
+  Total: '$30,200,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/nearpod#/entity'
+  Keyword: presentation software
+  Level: K-12
+  Type: B to S
+  Country: US
+  Notes: ''
+- Month: March
+  Name: Examity
+  Amount: '$21,000,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-03-02-examity-secures-21m-to-expand-online-proctoring-systems
+  Investors: University Ventures and Inherent Group
+  Total: '$21,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/examity#/entity'
+  Keyword: testing
+  Level: Post-sec
+  Type: B to S
+  Country: US
+  Notes: ''
