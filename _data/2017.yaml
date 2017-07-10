@@ -206,3 +206,102 @@
   Type: B to B
   Country: US
   Notes: ''
+- Month: January
+  Name: Housinganywhere.com
+  Amount: '$5,270,000'
+  Series: A
+  URL: 'http://tech.eu/brief/housinganywhere-e5-million/'
+  Investors: HENQ Invest and Real Web
+  Total: '$6,270,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/housinganywhere-com#/entity'
+  Keyword: housing
+  Level: Post-sec
+  Type: B to C
+  Country: Netherlands
+  Notes: ''
+- Month: January
+  Name: Credible
+  Amount: '$10,000,000'
+  Series: B
+  URL: >-
+    https://www.bloomberg.com/news/articles/2017-01-18/student-loan-startup-raises-money-from-prosper-s-suber-others
+  Investors: 'Carthona Capital, Ron Suber, and Regal Funds Management'
+  Total: '$24,300,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/credible#/entity'
+  Keyword: loans
+  Level: Post-sec
+  Type: B to C
+  Country: US
+  Notes: ''
+- Month: January
+  Name: Cuemath
+  Amount: '$15,000,000'
+  Series: B
+  URL: >-
+    http://www.indiainfoline.com/article/news-sme-start-ups/cuemath-cuemath-raises-15-million-from-capitalg-and-sequoia-india-117012300123_1.html
+  Investors: CapitalG (formerly Google Capital) and Sequoia India
+  Total: '$19,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/cuemath#/entity'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: January
+  Name: Xueba100.com
+  Amount: '$100,000,000'
+  Series: C
+  URL: >-
+    http://www.avcj.com/avcj/news/3003426/china-vcs-lead-usd100m-round-for-local-education-app-xueba
+  Investors: >-
+    China Merchants Capital, Grand Fight Investment, Anhui Xinhua Media, Qiming
+    Venture Partners, Trustbridge Partners, Vertex Ventures, and Yada Education
+  Total: '$120,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/xueba100-com#/entity'
+  Keyword: homework
+  Level: K-12
+  Type: B to C
+  Country: China
+  Notes: ''
+- Month: January
+  Name: Tinybop
+  Amount: undisclosed
+  Series: Venture
+  URL: >-
+    http://www.finsmes.com/2017/01/tinybop-receives-minority-investment-from-sandbox-partners.html
+  Investors: Sandbox Partners
+  Total: '$6,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/tinybop#/entity'
+  Keyword: apps
+  Level: K-12
+  Type: B to C
+  Country: US
+  Notes: ''
+- Month: January
+  Name: ClassWallet
+  Amount: undisclosed
+  Series: unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-01-10-classwallet-gets-minority-investment-to-help-schools-manage-funds
+  Investors: Brentwood Associates
+  Total: '$4,040,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/classwallet#/entity'
+  Keyword: payments
+  Level: K-12
+  Type: B to S
+  Country: US
+  Notes: ''
+- Month: January
+  Name: Learntron
+  Amount: undisclosed
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-livingtree-acquires-classmessenger-learnlaunch-welcomes-new-cohort/
+  Investors: Kae Capital
+  Total: unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/learntron#/entity'
+  Keyword: online education
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
