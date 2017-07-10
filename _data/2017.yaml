@@ -101,3 +101,108 @@
   Type: B to C
   Country: US
   Notes: ''
+- Month: January
+  Name: Adeptemy
+  Amount: '$3,480,000'
+  Series: Seed
+  URL: 'http://www.finsmes.com/2017/01/adaptemy-raises-over-e3m-in-funding.html'
+  Investors: Enterprise Ireland and Folens
+  Total: '$3,480,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/adaptemy#/entity'
+  Keyword: adaptive learning
+  Level: K-12
+  Type: B to B
+  Country: Ireland
+  Notes: ''
+- Month: January
+  Name: SecureSet Academy
+  Amount: '$4,000,000'
+  Series: A
+  URL: >-
+    http://securesetacademy.com/secureset-academy-secures-series-round-expand-cybersecurity-bootcamps/
+  Investors: The Colorado Impact Fund
+  Total: '$4,000,000'
+  Crunchbase: >-
+    http://securesetacademy.com/secureset-academy-secures-series-round-expand-cybersecurity-bootcamps/
+  Keyword: bootcamp
+  Level: Post-sec
+  Type: B to C
+  Country: US
+  Notes: ''
+- Month: January
+  Name: Teachable
+  Amount: '$4,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-01-25-teachable-raises-4-million-to-help-people-and-brands-create-sell-online-courses
+  Investors: 'Accomplice Ventures, Naval Ravikant, and Matt Brezina'
+  Total: '$8,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/fedora#/entity'
+  Keyword: marketplace
+  Level: Post-sec
+  Type: B to C
+  Country: US
+  Notes: ''
+- Month: January
+  Name: OOHLALA
+  Amount: '$4,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-01-27-canadian-startup-raises-4-million-to-boost-university-communications-and-engagement
+  Investors: >-
+    University Ventures, Joe Montana, Y Combinator, GoAhead Ventures, Osman
+    Rashid, and Real Ventures
+  Total: '$4,120,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/oohlala-mobile#/entity'
+  Keyword: engagement
+  Level: Post-sec
+  Type: B to S
+  Country: Canada
+  Notes: ''
+- Month: January
+  Name: Unacademy
+  Amount: '$4,500,000'
+  Series: A
+  URL: 'https://www.nextbigwhat.com/story/unacademy-funding/'
+  Investors: >-
+    Blume Ventures, Nexus Venture Partners, Ananth Narayanan, Binny Bansal,
+    Girish Mathrubootham, Kunal Shah, Sachin Bansal, Sandeep Tandon, Stanford
+    Angels and Entrepreneurs, Tashish Tulsian, Tracxn Labs, Vijay Shekhar
+    Sharma, and Waterbridge Ventures
+  Total: '$6,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/unacadem'
+  Keyword: online education
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: January
+  Name: Noodle Companies
+  Amount: '$5,000,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-01-23-noodle-companies-adds-5-million-series-a-to-streamline-k-20-education-markets
+  Investors: SWaN & Legend Venture Partners
+  Total: '$7,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/noodle-education#/entity'
+  Keyword: 'marketing, procurement'
+  Level: K-12
+  Type: B to S
+  Country: US
+  Notes: ''
+- Month: January
+  Name: Lingo Live
+  Amount: '$5,200,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-01-17-enterprise-language-learning-startup-lingo-live-raises-5-2-million
+  Investors: >-
+    Owl Ventures, Alpine Meridian Ventures, Fresco Capital, and Entrepreneurs
+    Expansion Fund
+  Total: '$6,340,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/lingo-live#/entity'
+  Keyword: language learning
+  Level: Corporate
+  Type: B to B
+  Country: US
+  Notes: ''
