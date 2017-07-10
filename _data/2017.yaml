@@ -496,3 +496,117 @@
   Type: B to S
   Country: Canada
   Notes: ''
+- Month: February
+  Name: SoFi
+  Amount: '$500,000,000'
+  Series: F
+  URL: 'https://techcrunch.com/2017/02/24/sofi-500m-silver-lake/'
+  Investors: 'Silver Lake, SoftBank, and GPI Capital'
+  Total: '$1,800,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/social-finance#/entity'
+  Keyword: loans
+  Level: Post-sec
+  Type: B to C
+  Country: US
+  Notes: ''
+- Month: February
+  Name: Vkidz
+  Amount: undisclosed
+  Series: Private Equity
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-brightwheel-raises-10-million-tinytap-vkidz-raise-funds/
+  Investors: Veronis Suhler Stevenson
+  Total: unknown
+  Crunchbase: 'https://www.crunchbase.com/organization/vkidz#/entity'
+  Keyword: curriculum
+  Level: K-12
+  Type: B to S
+  Country: US
+  Notes: ''
+- Month: March
+  Name: Clark
+  Amount: '$1,000,000'
+  Series: Seed
+  URL: >-
+    https://techcrunch.com/2017/03/01/clark-an-app-aiming-to-turn-every-educator-into-an-entrepreneur-launches-with-1-million-in-funding/
+  Investors: Human Ventures and Winklevoss Capital
+  Total: '$1,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/clark-3#/entity'
+  Keyword: virtual assistant
+  Level: Post-sec
+  Type: B to C
+  Country: US
+  Notes: ''
+- Month: March
+  Name: NeoStencil
+  Amount: '$1,000,000'
+  Series: Venture
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-nearpod-raises-21-million-barnes-noble-education-acquires-mbs/
+  Investors: Brand Capital and Paragon Trust
+  Total: '$1,060,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/neostencil#/entity'
+  Keyword: online education
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: March
+  Name: Pear Deck
+  Amount: '$4,000,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-03-22-pear-deck-raises-4m-to-jazz-up-digital-presentations-in-the-classroom
+  Investors: 'Growth Street Partners, Hyde Park Venture Partners, and Village Capital'
+  Total: '$5,150,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/pear-deck#/entity'
+  Keyword: presentation software
+  Level: K-12
+  Type: B to S
+  Country: US
+  Notes: ''
+- Month: March
+  Name: CareDox
+  Amount: '$6,400,000'
+  Series: A
+  URL: 'http://www.finsmes.com/2017/03/caredox-closes-6-4m-funding.html'
+  Investors: >-
+    Digitalis Ventures, First Round Capital, Giza Venture Capital, TEXO
+    Ventures, and Prolog Ventures
+  Total: '$13,540,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/caredox#/entity'
+  Keyword: health records
+  Level: K-12
+  Type: B to S
+  Country: US
+  Notes: ''
+- Month: March
+  Name: Kiddom
+  Amount: '$6,500,000'
+  Series: Venture
+  URL: >-
+    https://www.edsurge.com/news/2017-03-08-kiddom-raises-6-5m-to-expand-k-12-operating-system
+  Investors: Khosla Ventures
+  Total: '$6,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kiddom'
+  Keyword: assessment platform
+  Level: K-12
+  Type: B to S
+  Country: US
+  Notes: ''
+- Month: March
+  Name: Regent Education
+  Amount: '$8,500,000'
+  Series: Venture
+  URL: >-
+    http://www.prnewswire.com/news-releases/regent-education-secures-85m-in-funding-300414631.html
+  Investors: >-
+    New Markets Venture Partners, Chrysalis Ventures, and Ares Capital
+    Corporation
+  Total: '$32,750,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/regent-education#/entity'
+  Keyword: financial aid management
+  Level: Post-sec
+  Type: B to S
+  Country: US
+  Notes: ''
