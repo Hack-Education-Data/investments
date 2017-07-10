@@ -804,3 +804,102 @@
   Type: B to S
   Country: USA
   Notes: ''
+- Month: April
+  Name: Testbook
+  Amount: '$4,000,000'
+  Series: A
+  URL: >-
+    http://timesofindia.indiatimes.com/venture-capital/s-chand-backed-testbook-gets-funds-from-matrix-partners/articleshow/57981606.cms
+  Investors: Matrix Partners India
+  Total: '$4,250,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/testbook-com#/entity'
+  Keyword: test prep
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: April
+  Name: Smart Sparrow
+  Amount: '$4,000,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2017-04-10-let-teachers-not-tools-drive-adaptive-learning-digital-courseware-startup-smart-sparrow-raises-4m
+  Investors: 'Moelis Australia Asset Management, One Ventures, and Uniseed Ventures'
+  Total: '$16,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/smart-sparrow#/entity'
+  Keyword: adaptive learning
+  Level: Post-sec
+  Type: B to S
+  Country: Australia
+  Notes: ''
+- Month: April
+  Name: MarcoPolo Learning
+  Amount: '$8,500,000'
+  Series: A
+  URL: >-
+    https://www.edsurge.com/news/2017-04-25-early-childhood-app-maker-marcopolo-learning-raises-8-5-million
+  Investors: 'Boat Rocker Ventures, Horizons Ventures, Seedcamp, and DST Global'
+  Total: '$11,900,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/marcopolo-learning#/entity'
+  Keyword: mobile learning
+  Level: Pre-K
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: College Ave
+  Amount: '$30,000,000'
+  Series: D
+  URL: >-
+    http://www.businesswire.com/news/home/20170413005128/en/College-Ave-Student-Loans-Raises-30-Million
+  Investors: Comcast Ventures and Leading Edge Ventures
+  Total: '$50,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/college-ave-student-loans#/entity'
+  Keyword: student loans
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: EverFi
+  Amount: '$190,000,000'
+  Series: D
+  URL: 'https://fortune.com/2017/04/26/bono-tpg-rise-everfi/'
+  Investors: >-
+    The Rise Fund, TPG Growth, Advance Publications, Allen & Company, Eric
+    Schmidt, Ev Williams, Jeff Bezos, and Main Street Advisors
+  Total: '$251,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/everfi#/entity'
+  Keyword: online education
+  Level: All
+  Type: B to S
+  Country: USA
+  Notes: ''
+- Month: April
+  Name: Thinkster Math (formerly Tabtor Math)
+  Amount: undisclosed
+  Series: Unknown
+  URL: >-
+    https://www.edsurge.com/news/2017-04-18-thinkster-math-scores-funding-research-support-from-jefferson-education-accelerator
+  Investors: Jefferson Education Accelerator
+  Total: '$4,700,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/tabtor#/entity'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Schoolrunner
+  Amount: '$500,000'
+  Series: Venture
+  URL: >-
+    http://www.businessden.com/2017/04/30/teaching-software-company-raises-500k-turns-toward-public-schools/
+  Investors: Colorado Impact Fund
+  Total: '$2,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/schoolrunner#/entity'
+  Keyword: student information system
+  Level: K-12
+  Type: B to S
+  Country: USA
+  Notes: ''
