@@ -903,3 +903,106 @@
   Type: B to S
   Country: USA
   Notes: ''
+- Month: May
+  Name: Genext Students
+  Amount: '$580,000'
+  Series: Seed
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-kidpass-raises-5-1-million/
+  Investors: Undisclosed
+  Total: '$780,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/genext-students-limited#/entity'
+  Keyword: tutoring
+  Level: K-12
+  Type: B to C
+  Country: India
+  Notes: ''
+- Month: May
+  Name: Marbotic
+  Amount: '$1,500,000'
+  Series: Seed
+  URL: >-
+    https://www.edsurge.com/news/2017-05-18-french-edtech-startup-raises-1-5m-to-build-wooden-tablet-add-ons-and-toys
+  Investors: 'Mirabelle investment fund, Marguerite Fournié, and Michelin Development'
+  Total: '$1,500,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/marbotic'
+  Keyword: augmented toys
+  Level: K-12
+  Type: B to C
+  Country: France
+  Notes: ''
+- Month: May
+  Name: Paragon One
+  Amount: '$1,900,000'
+  Series: Seed
+  URL: >-
+    https://techcrunch.com/2017/05/25/career-coaching-service-paragon-one-gets-1-9m-seed-funding-from-investors-including-y-combinator/
+  Investors: >-
+    Y Combinator, Foundation Capital, Learn Capital, University Ventures, Li
+    Yuan Ventures, Altair Ventures, Jimmy Lai, and Jeff Xiong
+  Total: '$1,900,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/paragon-one#/entity'
+  Keyword: coaching and job placement
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Revolution Prep
+  Amount: '$4,000,000'
+  Series: B
+  URL: >-
+    https://marketbrief.edweek.org/marketplace-k-12/k-12-dealmaking-altschool-raises-40-million-revolution-prep-raises-4-million/
+  Investors: Kennet Partners
+  Total: '$9,000,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/revolution-prep#/entity'
+  Keyword: test prep
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: KidPass
+  Amount: '$5,100,000'
+  Series: A
+  URL: >-
+    https://techcrunch.com/2017/05/26/kidpass-raises-5-1-million-for-its-childrens-activity-subscription-service/
+  Investors: >-
+    Javelin Venture Partners, Bionic Fund, Cocoon Ignite Ventures, CoVenture, FJ
+    Labs, TIA Ventures, Y Combinator
+  Total: '$6,300,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/kidpass#/entity'
+  Keyword: activity subscription service
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: May
+  Name: Yogome
+  Amount: '$6,600,000'
+  Series: A
+  URL: 'https://techcrunch.com/2017/05/31/yogome/'
+  Investors: 'Seaya Ventures, Endeavor Catalyst, VARIV Capital'
+  Total: '$9,630,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/yogome'
+  Keyword: educational games
+  Level: K-12
+  Type: B to C
+  Country: Mexico
+  Notes: ''
+- Month: May
+  Name: Epic!
+  Amount: '$8,000,000'
+  Series: C
+  URL: >-
+    https://www.edsurge.com/news/2017-05-30-an-epic-fundraise-children-s-digital-book-subscription-startup-nabs-8-million
+  Investors: >-
+    Reach Capital, Innovation Endeavors, Menlo Ventures, Rakuten Ventures,
+    Social Starts, Translink Capital, WI Harper Group
+  Total: '$21,450,000'
+  Crunchbase: 'https://www.crunchbase.com/organization/epic#/entity'
+  Keyword: book subscription
+  Level: K-12
+  Type: B to C
+  Country: USA
+  Notes: ''
