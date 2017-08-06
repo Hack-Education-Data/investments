@@ -832,6 +832,19 @@
   Country: USA
   Notes: ''
 - Month: 2017-03
+  Name: MPOWER Financing
+  Amount: Undisclosed
+  Series: A
+  URL: ''
+  Investors: 'VilCap Investments, Chilango Ventures, VARIV Capital'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/mpower-financing#/entity'
+  Keyword: student loans
+  Level: Post-sec
+  Type: B to C
+  Country: USA
+  Notes: ''
+- Month: 2017-03
   Name: Nactus
   Amount: Undisclosed
   Series: Angel
@@ -1217,6 +1230,19 @@
   Level: Corporate
   Type: B to C
   Country: UK
+  Notes: ''
+- Month: 2017-06
+  Name: MPOWER Financing
+  Amount: '$500,000'
+  Series: Venture
+  URL: ''
+  Investors: '1776'
+  Total: ''
+  Crunchbase: 'https://www.crunchbase.com/organization/mpower-financing#/entity'
+  Keyword: student loans
+  Level: Post-sec
+  Type: B to C
+  Country: USA
   Notes: ''
 - Month: 2017-06
   Name: BookNook
